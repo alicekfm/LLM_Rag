@@ -1,0 +1,20 @@
+# Virtual env
+.venv/
+.venv-marker/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Mac
+.DS_Store
+
+# Data (IMPORTANT)
+*.pdf
+*.png
+*.json
+embeddings.npy
+
+# Streamlit
+.streamlit/

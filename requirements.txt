@@ -1,0 +1,6 @@
+numpy
+sentence-transformers
+huggingface_hub
+streamlit
+pyarrow
+watchdog
